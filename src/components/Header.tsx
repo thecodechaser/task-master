@@ -7,7 +7,7 @@ export const Header = () => {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center gap-3">
           <ClipboardList size={32} />
-          <h1 className="text-2xl font-bold">TaskMaster Pro</h1>
+          <h1 className="text-2xl font-bold">Task Master</h1>
         </div>
         <nav>
           <ul className="flex space-x-6">

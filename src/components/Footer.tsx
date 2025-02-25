@@ -6,7 +6,7 @@ export const Footer = () => {
       <div className="container mx-auto px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">TaskMaster Pro</h3>
+            <h3 className="text-lg font-semibold mb-4">Task Master</h3>
             <p className="text-sm">
               Streamline your workflow with our powerful task management solution.
             </p>
@@ -39,7 +39,7 @@ export const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-8 text-sm text-center">
-          © {new Date().getFullYear()} TaskMaster Pro. All rights reserved.
+          © {new Date().getFullYear()} Task Master. All rights reserved.
         </div>
       </div>
     </footer>
