@@ -26,7 +26,7 @@
 
 ## Live version
 
-[Trendify](https://task-master-codechaser.netlify.app/)
+[Task Master](https://task-master-codechaser.netlify.app/)
 
 ## Getting Started
 
