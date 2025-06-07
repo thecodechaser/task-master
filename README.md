@@ -26,7 +26,7 @@
 
 ## Live version
 
-[Task Master](https://task-master-codechaser.netlify.app/)
+[Task Master](https://task-master.thecodechaser.com)
 
 ## Getting Started
 
